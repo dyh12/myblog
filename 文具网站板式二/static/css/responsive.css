@@ -1,0 +1,382 @@
+﻿
+@media (max-width:1720px) {
+    .mcode{ width: 1600px; }
+    .mlamp ul li{ width: 385px; margin: 20px 20px 0 0; }
+    .mlamp ul li a img{ width: 385px; height: 322px; }
+    .mlamp ul li a h3{ height: 24px; line-height: 24px; margin-top: 15px; }
+    .mlamp ul li a h4{ line-height: 22px; }
+}
+
+@media (max-width:1620px) {
+    .mcode{ width: 1400px; }
+    .mlamp ul li{ width: 335px; }
+    .mlamp ul li a img{ width: 335px; height: 280px; }
+    .mlamp ul li a h3{ margin-top: 10px; }
+}
+
+@media (max-width:1420px) {
+    .mcode{ width: 1280px; }
+    .micode{ width: 1280px; }
+    .main{ padding: 50px 0; }
+    .title h1{ line-height: 40px; font-size: 36px; }
+    .content{ padding: 20px 0; }
+    .about p{ line-height: 32px; font-size: 18px; }
+    .about img{ margin: 15px auto; }
+    .about .company{ width: 1000px; height: 150px; margin: 40px auto; }
+    .about .company ul li h1{ line-height: 100px; font-size: 100px; margin-top: 2px; }
+    .about .company ul li h2{ line-height: 48px; font-size: 24px; }
+    .about .companys ul li{ padding: 25px; }
+    .mlamp ul li{ width: 305px; margin-top: 15px; }
+    .mlamp ul li a img{ width: 305px; height: 256px; }
+    .mlamp ul li a h4{ margin-bottom: 5px; }
+}
+
+@media (max-width:1300px) {
+    .mcode{ width: 1200px; }
+    .micode{ width: 1200px; }
+    .mincode{ width: 1200px; }
+    .header{ height: 66px; margin-top: 10px; }
+    .header .mbody .logo{ height: 43px; }
+    .header .mbody .logo img{ height: 43px; }
+    .header .mbody .menu{ margin: 3px 0 6px 0; }
+    .header .mbody .menu ul li{ margin-left: 30px; }
+    .header .mbody .menu ul li a{ font-size: 14px; }
+    .header .mbody .menu ul li .nav{ width: 200px; padding: 7px 0; }
+    .header .mbody .menu ul li .nav ol li{ height: 28px; }
+    .header .mbody .menu ul li .nav ol li a{ line-height: 28px; padding-left: 15px; font-size: 12px; }
+    .header .mbody .search{ margin: 7px 0 14px 30px; }
+    .header .mbody .search .txt{ font-size: 12px; }
+    .header.sticky .mbody .menu li{ margin-left: 30px; }
+    .banner .owl-banner .owl-dots{ bottom: 30px; }
+    .banner .owl-banner .owl-dots .owl-dot{ width: 10px; height: 10px; margin: 0 10px; }
+    .lamp-half .lamp-detail{ width: 390px; margin-top: -100px; }
+    .lamp-half .lamp-detail h1{ line-height: 44px; font-size: 40px; }
+    .lamp-half .lamp-detail h4{ margin: 10px 0 15px 0; font-size: 14px; }
+    .lamp-half .lamp-detail span{ width: 150px; height: 38px; line-height: 38px; }
+    .lamp-half.left  .lamp-detail{ left: 50px; }
+    .lamp-half.right .lamp-detail{ right: 50px; }
+    .lamp-half .lamp-half-half .lamp-half-detail{ right: 20px; bottom: 15px; left: 20px; height: 40px; }
+    .lamp-half .lamp-half-half .lamp-half-detail h5{ line-height: 20px; font-size: 12px; }
+    .lamp-half .lamp-half-half .lamp-half-detail h4{ line-height: 20px; font-size: 14px; }
+    .lamp-more{ width: 220px; height: 34px; margin: 30px auto; }
+    .lamp-more a{ line-height: 32px; font-size: 12px; border-radius: 18px; }
+    .follow{ padding: 84px 0 108px 0; }
+    .follow .form{ width: 800px; height: 42px; margin: 30px auto; }
+    .follow .form .input{ width: 640px; height: 40px; line-height: 20px; }
+    .follow .form .submit{ width: 158px; line-height: 40px; padding: 0; font-size: 18px; }
+    .follow .fshare{ width: 320px; line-height: 54px; }
+    .follow .fshare a{ width: 54px; height: 54px; margin: 0 13px; }
+    .gotop{ width: 56px; height: 56px; }
+    .botter{ padding: 50px 0; }
+    .botter dl dt{ padding-bottom: 10px; margin-bottom: 20px; }
+    .botter dl dt a{ line-height: 30px; font-size: 18px; }
+    .botter dl dt:after{ height: 1px; }
+    .botter dl dd a{ line-height: 28px; font-size: 13px; }
+    .botter dl dd p{ padding-left: 32px; line-height: 28px; font-size: 13px; }
+    .copyright{ padding: 10px 0; }
+    .main{ padding: 40px 0; }
+    .content{ padding: 15px 0; }
+    .about p{ line-height: 30px; }
+    .news ul li{ height: 200px; margin-bottom: 20px; }
+    .news ul li a .npic{ width: 25%; height: 200px; }
+    .news ul li a .npic img{ height: 200px; }
+    .news ul li a .ndata{ width: 75%; height: 200px; padding: 30px; }
+    .mlamp ul li{ width: 288px; margin: 10px 15px 0 0; }
+    .mlamp ul li a img{ width: 288px; height: 242px; }
+    .mlamp ul li a h3{ font-size: 14px; }
+    .mlamp ul li a h4{ line-height: 20px; font-size: 12px; }
+    .data-demo{ margin-bottom: 30px; }
+}
+
+@media (max-width:1220px) {
+    .code{ padding-right: 30px; padding-left: 30px; }
+    .mcode,
+    .micode,
+    .mincode{ width: 1024px; }
+    .header{ height: 64px; margin-top: 10px; }
+    .header .mbody .logo{ height: 40px; }
+    .header .mbody .logo img{ height: 40px; }
+    .header .mbody .menu{ margin: 3px 0 4px 0; }
+    .header .mbody .menu ul li .nav{ padding: 5px 0; }
+    .header .mbody .menu ul li .nav ol li{ height: 26px; }
+    .header .mbody .menu ul li .nav ol li a{ line-height: 26px; }
+    .header .mbody .search{ margin: 7px 0 12px 30px; }
+    .banner .owl-banner .owl-dots{ bottom: 25px; }
+    .lamp-half .lamp-detail{ width: 320px; margin-top: -87px; }
+    .lamp-half .lamp-detail h1{ line-height: 36px; font-size: 32px; }
+    .lamp-half .lamp-detail h4{ margin: 10px 0; font-size: 13px; }
+    .lamp-half .lamp-detail span{ width: 140px; height: 34px; line-height: 34px; font-size: 12px; }
+    .lamp-half.left  .lamp-detail{ left: 30px; }
+    .lamp-half.right .lamp-detail{ right: 30px; }
+    .lamp-half .lamp-half-half .lamp-half-detail{ right: 15px; bottom: 15px; left: 15px; }
+    .lamp-more{ width: 200px; margin: 25px auto; }
+    .follow{ padding: 64px 0 90px 0; }
+    .follow .form{ width: 640px; height: 40px; margin: 25px auto; }
+    .follow .form .input{ width: 500px; height: 38px; line-height: 18px; padding: 10px 20px 10px 30px; background-position: 10px center; }
+    .follow .form .submit{ width: 138px; line-height: 38px; padding: 0; font-size: 16px; }
+    .follow .fshare{ width: 264px; line-height: 46px; }
+    .follow .fshare a{ width: 46px; height: 46px; margin: 0 10px; }
+    .follow .fshare a span{ background-size: auto 40%; }
+    .gotop{ width: 50px; height: 50px; }
+    .botter{ padding: 32px 0; }
+    .botter dl{ width: 21%; padding-left: 20px; }
+    .botter dl:last-child{ width: 37%; padding-left: 0; }
+    .botter dl dt{ padding-bottom: 5px; margin-bottom: 15px; }
+    .botter dl dt a{ line-height: 28px; font-size: 16px; }
+    .botter dl dd a{ line-height: 26px; font-size: 12px; }
+    .botter dl dd p{ padding-left: 30px; line-height: 26px; font-size: 12px; }
+    .main{ padding: 30px 0; }
+    .title h1{ line-height: 30px; font-size: 32px; }
+    .content{ padding: 10px 0; }
+    .about p{ line-height: 28px; font-size: 14px; }
+    .about img{ margin: 10px auto; }
+    .about .company{ width: 840px; height: 120px; margin: 30px auto; }
+    .about .company ul li h1{ line-height: 88px; font-size: 84px; margin-top: 0; }
+    .about .company ul li h2{ line-height: 32px; font-size: 20px; }
+    .about .companys ul li{ padding: 20px; }
+    .about .companys ul li p{ font-size: 14px; }
+    .contact{ margin-bottom: 30px; }
+    .contact .con-half{ padding: 0 30px; }
+    .contact h1{ padding: 10px 0 15px 0; line-height: 36px; }
+    .contact p{ padding-left: 35px; line-height: 30px; font-size: 14px; }
+    .contact .forms .submits{ height: 34px; line-height: 34px; }
+    .news ul li{ height: 180px; margin-bottom: 15px; }
+    .news ul li a .npic{ height: 180px; }
+    .news ul li a .npic img{ height: 180px; }
+    .news ul li a .ndata{ height: 180px; padding: 20px; }
+    .newsd .ntitle{ padding-bottom: 10px; }
+    .newsd .ntitle h1{ line-height: 32px; font-size: 20px; }
+    .newsd .ntitle span{ line-height: 24px; font-size: 12px; }
+    .newsd .ndemo{ padding: 20px; }
+    .newsd .ndemo p{ line-height: 24px; font-size: 14px; }
+    .newsd .ndemo img{ margin: 15px auto; }
+    .pager{ padding-bottom: 20px; }
+    .mlamp ul li{ width: 248px; margin: 10px 10px 0 0; }
+    .mlamp ul li a img{ width: 248px; height: 208px; }
+    .data-title{ height: 40px; padding: 5px 0; }
+    .data-title h1{ line-height: 30px; font-size: 24px; }
+    .data-title a{ line-height: 30px; font-size: 18px; }
+    .data-title span{ height: 30px; }
+    .data-title span a{ width: 25px; height: 30px; background-size: auto 18px; }
+    .data-slide{ height: 560px; margin: 20px 0; }
+    .data-slide .thumbWrap{ height: 480px; }
+    .data-slide .thumbWrap .thumbCont{ height: 480px; }
+    .data-slide .thumbWrap ul li{ padding-bottom: 9px; }
+    .data-slide .control{ width: 572px; height: 480px; }
+    .data-slide .control .change li{ width: 572px; }
+    .data-slide .control .change li .imgwrapper{ width: 572px; height: 480px; }
+    .data-slide .control .change li img{ max-width: 570px; max-height: 478px; width: expression(this.width > 570 && this.width > this.height ? 478:true); height: expression(this.height > 570 ? 478:true); }
+    .data-demo{ padding-top: 20px;  }
+    .data-demo h1{ line-height: 30px; margin-bottom: 10px; font-size: 20px; }
+    .data-demo p{ font-size: 14px; }
+}
+
+@media (max-width:1000px) {
+    .code{ padding-right: 20px; padding-left: 20px; }
+    .mcode,
+    .micode,
+    .mincode{ width: 728px; }
+    .header{ height: 60px; }
+    .header .mbody .logo{ height: 40px; }
+    .header .mbody .logo img{ height: 40px; }
+    .header .mbody .menu{ margin: 3px 0; }
+    .header .mbody .menu ul li{ margin-left: 20px; }
+    .header .mbody .menu ul li a{ font-size: 12px; }
+    .header .mbody .menu ul li .nav{ width: 190px; }
+    .header .mbody .menu ul li .nav ol li{ height: 25px; }
+    .header .mbody .menu ul li .nav ol li a{ padding-left: 10px; line-height: 25px; }
+    .header .mbody .search{ margin: 7px 0 11px 20px; }
+    .header.sticky .mbody .menu li{ margin-left: 20px;  }
+    .header.sticky .mbody .search{ width: 140px; margin: 7px 0 7px 20px; }
+    .header.sticky .mbody .search .txt{ width: 110px; }
+    .banner .owl-banner .owl-dots{ bottom: 20px; }
+    .banner .owl-banner .owl-dots .owl-dot{ border-width: 1px; }
+    .center{ padding: 2px; }
+    .lamp-half{ width: 100%; float: none; overflow: hidden; }
+    .lamp-half a{ margin: 3px; }
+    .lamp-half .lamp-half-half a{ margin: 3px; }
+    .lamp-half .lamp-detail{ width: 390px; margin-top: -86px; }
+    .lamp-half .lamp-detail h1{ line-height: 40px; font-size: 40px; }
+    .lamp-half .lamp-detail h4{ margin: 10px 0; height: 40px; line-height: 20px; font-size: 12px; }
+    .lamp-half .lamp-detail span{ width: 140px; height: 32px; line-height: 32px; border-radius: 2px; }
+    .lamp-more{ width: 200px; margin: 20px auto; }
+    .follow{ padding: 56px 0 84px 0; }
+    .follow .form{ margin: 20px auto; }
+    .follow .fshare{ width: 248px; line-height: 42px; }
+    .follow .fshare a{ width: 42px; height: 42px; margin: 0 10px; }
+    .gotop{ width: 45px; height: 45px; }
+    .botter{ padding: 30px 0; }
+    .botter dl{ padding-left: 0; }
+    .botter dl dt{ margin-bottom: 10px; }
+    .botter dl dt a{ line-height: 26px; font-size: 14px; }
+    .botter dl dd a{ line-height: 24px; }
+    .botter dl dd p{ line-height: 24px; }
+    .main{ padding: 20px 0; }
+    .title{ padding: 10px 0; }
+    .title h1{ line-height: 30px; font-size: 30px; }
+    .content{ padding: 0; }
+    .about p{ line-height: 24px; font-size: 14px; }
+    .about img{ margin: 5px auto; }
+    .about .company{ width: 100%; height: 100px; margin: 20px auto; }
+    .about .company ul li h1{ line-height: 76px; font-size: 64px; }
+    .about .company ul li h2{ line-height: 24px; font-size: 16px; }
+    .about .companys ul li{ padding: 10px; }
+    .about .companys ul li p{ font-size: 14px; }
+    .contact .con-half{ padding: 0 10px; }
+    .contact h1{ padding: 5px 0 10px 0; line-height: 30px; font-size: 18px; }
+    .contact p{ padding-left: 30px; line-height: 26px; font-size: 12px; }
+    .contact p.ic1{ line-height: 24px; }
+    .contact .forms .inputs{ height: 30px; line-height: 18px; }
+    .contact .forms .textarea{ height: 100px; }
+    .contact .forms .submits{ width: 128px; height: 32px; line-height: 32px; }
+    .news ul li{ height: 160px; }
+    .news ul li a .npic{ width: 30%; height: 160px; }
+    .news ul li a .npic img{ height: 160px; }
+    .news ul li a .ndata{ width: 70%; height: 160px; }
+    .news ul li a .ndata h1{ margin-bottom: 10px; font-size: 18px; }
+    .news ul li a .ndata span{ margin-top: 10px; }
+    .newsd{ margin-bottom: 15px; }
+    .newsd .ntitle{ padding-bottom: 5px; }
+    .newsd .ntitle h1{ line-height: 28px; font-size: 18px; }
+    .newsd .ndemo{ padding: 10px; }
+    .newsd .ndemo p{ font-size: 12px; }
+    .newsd .ndemo img{ margin: 10px auto; }
+    .pager{ padding-top: 10px; padding-bottom: 30px; }
+    .mlamp ul li{ width: 174px; }
+    .mlamp ul li a img{ width: 174px; height: 146px; }
+    .mlamp ul li a h3{ margin-top: 6px; }
+    .mlamp ul li a h4{ margin-bottom: 0; }
+    .data-title{ height: 35px; padding: 0 0 5px 0; }
+    .data-title h1{ line-height: 30px; font-size: 20px; }
+    .data-title a{ line-height: 30px; font-size: 16px; }
+    .data-slide{ height: 587px; margin: 10px 0; }
+    .data-slide .thumbWrap{ width: 120px; height: 507px; }
+    .data-slide .thumbWrap .thumbCont{ width: 110px; height: 507px; }
+    .data-slide .thumbWrap ul li{ width: 110px; padding-bottom: 11px; }
+    .data-slide .thumbWrap ul li div{ width: 110px; height: 92px; }
+    .data-slide .thumbWrap ul li img{ max-width: 108px; max-height: 90px; width: expression(this.width > 108 && this.width > this.height ? 90:true); height: expression(this.height > 108 ? 90:true); }
+    .data-slide .thumbWrap ul li.cur div:after{ width: 108px; height: 90px; }
+    .data-slide .thumbPrev,
+    .data-slide .thumbNext{ width: 110px; }
+    .data-slide .control{ width: 604px; height: 507px; margin: 40px 0 40px 120px; }
+    .data-slide .control .change li{ width: 604px; }
+    .data-slide .control .change li .imgwrapper{ width: 604px; height: 507px; }
+    .data-slide .control .change li img{ max-width: 602px; max-height: 505px; width: expression(this.width > 602 && this.width > this.height ? 505:true); height: expression(this.height > 602 ? 505:true); }
+    .data-slide .data-share{ left: 120px; }
+    .data-demo{ padding-top: 10px; }
+    .data-demo h1{ line-height: 26px; margin-bottom: 5px; font-size: 18px; }
+    .data-demo p{ font-size: 12px; }
+}
+
+@media (max-width: 600px) {
+    .code{ padding-right: 2.5%; padding-left: 2.5%; }
+    .mcode{ width: 95%; }
+    .micode{ width: 100%; }
+    .mincode{ width: 95%; }
+    .header{ margin-top: 5px; }
+    .header .mbody .logo{ height: 34px; margin: 3px 0; }
+    .header .mbody .logo img{ height: 34px; }
+    .header .mbody .menu{ display: none; }
+    .header .mbody .search{ display: none; }
+    .header .mbody .dl-menuwrapper{ display: block; }
+    .header.sticky{ height: 60px; }
+    .header.sticky .mbody{ padding-top: 10px; padding-bottom: 10px; }
+    .header.sticky .mbody .logo{ height: 34px; margin: 3px 0; }
+    .header.sticky .mbody .logo img{ height: 34px; }
+    .banner .owl-banner .owl-dots{ bottom: 10px; }
+    .banner .owl-banner .owl-dots .owl-dot{ margin: 0 7px; border-width: 1px; }
+    .center{ padding: 3px; }
+    .lamp-half .lamp-detail{ width: 290px; margin-top: -80px; }
+    .lamp-half .lamp-detail h1{ line-height: 34px; font-size: 30px; }
+    .lamp-half .lamp-detail h4{ margin: 10px 0; }
+    .lamp-half.left  .lamp-detail{ left: 20px; }
+    .lamp-half.right .lamp-detail{ right: 20px; }
+    .lamp-half .lamp-half-half .lamp-half-detail{ right: 10px; bottom: 10px; left: 10px; }
+    .lamp-half .lamp-half-half .lamp-half-detail h4{ height: 20px; padding-right: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .lamp-more{ width: 160px; margin: 15px auto; }
+    .follow{ padding: 32px 0 60px 0; margin: 0 -3px; }
+    .follow h1{ margin-bottom: 10px; line-height: 20px; font-size: 24px; }
+    .follow p{ line-height: 20px; font-size: 14px; color: #5e5e5e; display: block; }
+    .follow .form{ width: 300px; height: 36px; margin: 10px auto; }
+    .follow .form .input{ width: 200px; height: 34px; line-height: 23px; padding: 7px 10px 7px 25px; font-size: 12px; background-position: 5px center;  }
+    .follow .form .submit{ width: 98px; line-height: 34px; padding: 0; font-size: 12px; }
+    .follow .fshare{ width: 200px; line-height: 40px; }
+    .follow .fshare a{ width: 40px; height: 40px; margin: 0 5px; }
+    .botter{ padding: 20px 0; }
+    .botter dl{ display: none; }
+    .botter dl:last-child{ width: 100%; display: block; }
+    .botter dl dt{ display: none; }
+    .botter dl dd p{ line-height: 26px; }
+    .main{ padding: 10px 0; }
+    .title{ padding: 5px 0; }
+    .title h1{ font-size: 24px; }
+    .content{ padding: 0; }
+    .about p{ font-size: 12px; }
+    .about img{ margin: 0 auto; }
+    .about .company{ width: 100%; height: auto; margin: 10px auto; overflow: hidden; }
+    .about .company ul li{ width: 100%; float: none; border: 0; }
+    .about .company ul li h1{ line-height: 52px; font-size: 40px; }
+    .about .company ul li h2{ line-height: 20px; font-size: 14px; }
+    .about .companys ul li{ width: 100%; float: none; padding: 5px; }
+    .about .companys ul li p{ font-size: 12px; }
+    .contact .con-half{ width: 100%; float: none; padding: 0; }
+    .contact h1{ padding: 5px 0; line-height: 25px; }
+    .contact p{ line-height: 25px; }
+    .contact p.ic1{ line-height: 22px; }
+    .contact .forms .inputs{  margin-bottom: 8px; }
+    .contact .forms .textarea{ height: 80px; }
+    .contact .forms .submits{ width: 120px; height: 30px; line-height: 30px; }
+    .news ul li{ height: 140px; margin-bottom: 10px; }
+    .news ul li a .npic{ height: 140px; }
+    .news ul li a .npic img{ width: auto; height: 140px; }
+    .news ul li a .ndata{ height: 140px; padding: 10px; }
+    .news ul li a .ndata h1{ margin-bottom: 10px; font-size: 16px; }
+    .news ul li a .ndata p{ font-size: 12px; }
+    .news ul li a .ndata span{ font-size: 12px; }
+    .pager{ padding-top: 0; }
+    .pager span, .pager a{ padding: 0 2px; margin: 0 3px; font-size: 12px; }
+    .newsd{ margin-bottom: 15px; }
+    .newsd .ntitle h1{ line-height: 26px; font-size: 16px; }
+    .newsd .ndemo{ padding: 5px; }
+    .newsd .ndemo img{ margin: 5px auto; }
+    .pager{ padding-top: 10px; padding-bottom: 30px; }
+    .mlamp{ margin: 0 -3.5%; }
+    .mlamp ul li{ width: 48%; margin: 1%; }
+    .mlamp ul li:nth-child(4n){ margin-right: 1%; }
+    .mlamp ul li a img{ width: 100%; height: auto; }
+    .mlamp ul li a h3{ margin-top: 4px; height: 20px; line-height: 20px; font-size: 12px; }
+    .mlamp ul li a h4{ line-height: 16px; }
+    .data-title h1{ font-size: 16px; }
+    .data-title a{ padding-left: 20px; font-size: 14px; background-size: auto 16px; }
+    .data-title span a{ width: 20px; margin-left: 5px; }
+    .data-slide{ height: 259px; margin: 10px 0 5px 0; }
+    .data-slide .thumbWrap{ width: 70px; height: 191px; margin-top: 34px; margin-bottom: 34px; }
+    .data-slide .thumbWrap .thumbCont{ width: 60px; height: 191px; }
+    .data-slide .thumbWrap ul li{ width: 60px; padding-bottom: 5px; }
+    .data-slide .thumbWrap ul li div{ width: 60px; height: 50px; }
+    .data-slide .thumbWrap ul li img{ max-width: 58px; max-height: 48px; width: expression(this.width > 58 && this.width > this.height ? 48:true); height: expression(this.height > 58 ? 48:true); }
+    .data-slide .thumbWrap ul li.cur div:after{ width: 58px; height: 48px; }
+    .data-slide .thumbPrev,
+    .data-slide .thumbNext{ width: 60px; height: 28px; }
+    .data-slide .thumbPrev{ top: -34px; }
+    .data-slide .thumbNext{ bottom: -34px; }
+    .data-slide .control{ width: 228px; height: 191px; margin: 34px 0 34px 70px; }
+    .data-slide .control .change li{ width: 228px; }
+    .data-slide .control .change li .imgwrapper{ width: 228px; height: 191px; }
+    .data-slide .control .change li img{ max-width: 226px; max-height: 189px; width: expression(this.width > 226 && this.width > this.height ? 189:true); height: expression(this.height > 226 ? 189:true); }
+    .data-slide .data-share{ bottom: -5px; left: 70px; }
+    .data-demo{ padding-top: 5px; }
+    .data-demo h1{ margin-bottom: 0; font-size: 16px; }
+}
+
+@media (max-width: 340px) {
+    .lamp-half.left  .lamp-detail{ left: 10px; }
+    .lamp-half.right .lamp-detail{ right: 10px; }
+    .botter{ padding: 15px 0; }
+    .news ul li{ height: 120px; margin-bottom: 10px; }
+    .news ul li a .npic{ height: 120px; text-align: center; }
+    .news ul li a .npic img{ width: 190px; height: 120px; margin-right: -30px; }
+    .news ul li a .ndata{ height: 120px; padding: 10px; }
+    .news ul li a .ndata h1{ margin-bottom: 0; font-size: 14px; }
+    .news ul li a .ndata span{ margin-top: 0; }
+}
